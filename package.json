@@ -1,26 +1,26 @@
 {
-  "name": "js-com-tdd",
-  "version": "1.0.0",
-  "description": "CuProjeto desenvolvido no curso JS com TDD (Udemy)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/brunopereiradonascimento/curso-udemy-js-tdd.git"
-  },
-  "keywords": [
-    "js",
-    "tdd",
-    "library",
-    "testes",
-    "javascript"
-  ],
-  "author": "Bruno Pereira do Nascimento <brunopereiradonascimento@gmail.com> (https://github.com/brunopereiradonascimento)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brunopereiradonascimento/curso-udemy-js-tdd/issues"
-  },
-  "homepage": "https://github.com/brunopereiradonascimento/curso-udemy-js-tdd#readme"
+    "name": "js-com-tdd",
+    "version": "1.0.0",
+    "description": "Projeto desenvolvido no curso JS com TDD (Udemy)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brunopereiradonascimento/curso-udemy-js-tdd.git"
+    },
+    "keywords": [
+        "js",
+        "tdd",
+        "library",
+        "testes",
+        "javascript"
+    ],
+    "author": "Bruno Pereira do Nascimento <brunopereiradonascimento@gmail.com> (https://github.com/brunopereiradonascimento)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/brunopereiradonascimento/curso-udemy-js-tdd/issues"
+    },
+    "homepage": "https://github.com/brunopereiradonascimento/curso-udemy-js-tdd#readme"
 }
