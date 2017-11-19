@@ -1,0 +1,23 @@
+#Ativado para todos os editores
+root = true
+
+#Tipos de arquivos, caso fosse somente JS, seria [*.js]
+[*]
+
+#Indentação: space ou tabs
+indent_style = space
+
+#Tamanho da indentação
+indent_size = 2
+
+#Tipo de quebra de linha CRLF ou LF
+end_of_line = lf
+
+#Charset
+charset = utf-8
+
+#Retirar espaçoes em branco desnecessários
+trim_trailing_whitespace = true
+
+#Inserir uma linha no final do arquivo
+insert_final_newline = true
